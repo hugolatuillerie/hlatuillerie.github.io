@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header img {
+    width: 80px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.article {
+    max-width: 350px;
+}
+
+.phrasedebut {
+    padding-top: 90px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+.nvxprdt {
+    text-align: center;
+}
+
+.stronger {
+    font-size: xx-large;
+}
+
+.texte {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.texte1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+.article img {
+    width: 100%;
+    margin-bottom: 15px;
+}   
+.gauche p {
+color: gray;
+}
+
+.ligne-articles {
+display: flex;
+gap: 40px;
+flex-wrap: wrap;
+}
+
+.marges {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    margin-bottom: 15px;
+}
+.JordanBrand {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.imagefond {
+    display: flex;
+    justify-content: center;
+}
+.textjordan h2 {
+    font-weight: lighter;
+}
+
+.textapp { 
+    display:flex; 
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.deuximages {
+    display:flex;
+    justify-content: center;
+}
+.nouveauxarticles {
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+    padding-bottom : 35px;
+}
+
+#button1 {
+padding: 10px;
+background-color: black;
+color: white;
+border-radius: 80px;
+}
+
+.nouveauxarticles {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.textapp h2 {
+    font-weight: lighter;
+}
+
+.deuximages {
+    display: flex;
+    margin-bottom: 15px;
+    gap: 20px;
+}
+
+.textarticle h2 {
+    font-weight: lighter;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.Troisimages {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    gap: 10px;
+}
+
+.liste {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+
+}
+
+
+li {
+    color: grey;
+}
+
+ul {
+    list-style: none;
+}
+
+h3 {
+    margin-bottom: 15px;
+}
